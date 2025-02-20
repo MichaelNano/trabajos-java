@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+div {
+    background-color: red;
+    border: 5px solid black;
+    width: 125px;
+    margin: 5px;
+}
+
+div p {
+    text-align: center;
+    color: white;
+}
